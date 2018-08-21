@@ -7,7 +7,7 @@
 //
 
 #import "JTAliPayer.h"
-#import <WeexPluginLoader/WeexPluginLoader.h>
+#import <WeexPluginLoader/WeexPluginLoader/WeexPluginLoader.h>
 #import <AlipaySDK/AlipaySDK.h>
 
 

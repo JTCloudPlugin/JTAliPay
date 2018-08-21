@@ -4,7 +4,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "JTAliPay"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "JTAliPay Source ."
   s.homepage     = 'https://github.com/JTCloudPlugin/JTAliPay'
   s.license      = "MIT"
